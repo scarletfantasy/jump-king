@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 1568383aa3318364a9e3d623fb24e86c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7274664272078137436
+    second: "rpg\u6E38\u620F\u5BA4\u5185\u5BA4\u5916\u573A\u666F\u6E38\u620F\u74F7\u7816\u7D20\u6750-_\u516C\u4E3B(_princes_\u7231\u7ED9\u7F51_aigei_com_0"
+  - first:
+      213: 1409673472507843010
+    second: "rpg\u6E38\u620F\u5BA4\u5185\u5BA4\u5916\u573A\u666F\u6E38\u620F\u74F7\u7816\u7D20\u6750-_\u516C\u4E3B(_princes_\u7231\u7ED9\u7F51_aigei_com_1"
+  - first:
+      213: -4910217222465737806
+    second: "rpg\u6E38\u620F\u5BA4\u5185\u5BA4\u5916\u573A\u666F\u6E38\u620F\u74F7\u7816\u7D20\u6750-_\u516C\u4E3B(_princes_\u7231\u7ED9\u7F51_aigei_com_2"
+  - first:
+      213: -931430368767592964
+    second: "rpg\u6E38\u620F\u5BA4\u5185\u5BA4\u5916\u573A\u666F\u6E38\u620F\u74F7\u7816\u7D20\u6750-_\u516C\u4E3B(_princes_\u7231\u7ED9\u7F51_aigei_com_3"
+  - first:
+      213: 1633339919583674783
+    second: "rpg\u6E38\u620F\u5BA4\u5185\u5BA4\u5916\u573A\u666F\u6E38\u620F\u74F7\u7816\u7D20\u6750-_\u516C\u4E3B(_princes_\u7231\u7ED9\u7F51_aigei_com_4"
+  - first:
+      213: -217783534238390666
+    second: "rpg\u6E38\u620F\u5BA4\u5185\u5BA4\u5916\u573A\u666F\u6E38\u620F\u74F7\u7816\u7D20\u6750-_\u516C\u4E3B(_princes_\u7231\u7ED9\u7F51_aigei_com_5"
+  - first:
+      213: -4655456184249958998
+    second: "rpg\u6E38\u620F\u5BA4\u5185\u5BA4\u5916\u573A\u666F\u6E38\u620F\u74F7\u7816\u7D20\u6750-_\u516C\u4E3B(_princes_\u7231\u7ED9\u7F51_aigei_com_6"
+  - first:
+      213: -5322906905574375547
+    second: "rpg\u6E38\u620F\u5BA4\u5185\u5BA4\u5916\u573A\u666F\u6E38\u620F\u74F7\u7816\u7D20\u6750-_\u516C\u4E3B(_princes_\u7231\u7ED9\u7F51_aigei_com_7"
+  - first:
+      213: 7895704863115505815
+    second: "rpg\u6E38\u620F\u5BA4\u5185\u5BA4\u5916\u573A\u666F\u6E38\u620F\u74F7\u7816\u7D20\u6750-_\u516C\u4E3B(_princes_\u7231\u7ED9\u7F51_aigei_com_8"
+  - first:
+      213: 4191335265230534367
+    second: "rpg\u6E38\u620F\u5BA4\u5185\u5BA4\u5916\u573A\u666F\u6E38\u620F\u74F7\u7816\u7D20\u6750-_\u516C\u4E3B(_princes_\u7231\u7ED9\u7F51_aigei_com_9"
+  - first:
+      213: -1628494613263290896
+    second: "rpg\u6E38\u620F\u5BA4\u5185\u5BA4\u5916\u573A\u666F\u6E38\u620F\u74F7\u7816\u7D20\u6750-_\u516C\u4E3B(_princes_\u7231\u7ED9\u7F51_aigei_com_10"
+  - first:
+      213: 8126733703670160322
+    second: "rpg\u6E38\u620F\u5BA4\u5185\u5BA4\u5916\u573A\u666F\u6E38\u620F\u74F7\u7816\u7D20\u6750-_\u516C\u4E3B(_princes_\u7231\u7ED9\u7F51_aigei_com_11"
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "rpg\u6E38\u620F\u5BA4\u5185\u5BA4\u5916\u573A\u666F\u6E38\u620F\u74F7\u7816\u7D20\u6750-_\u516C\u4E3B(_princes_\u7231\u7ED9\u7F51_aigei_com_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a79e8a23633b0b90800000000000000
+      internalID: -7274664272078137436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rpg\u6E38\u620F\u5BA4\u5185\u5BA4\u5916\u573A\u666F\u6E38\u620F\u74F7\u7816\u7D20\u6750-_\u516C\u4E3B(_princes_\u7231\u7ED9\u7F51_aigei_com_1"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c11f12fd8a209310800000000000000
+      internalID: 1409673472507843010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rpg\u6E38\u620F\u5BA4\u5185\u5BA4\u5916\u573A\u666F\u6E38\u620F\u74F7\u7816\u7D20\u6750-_\u516C\u4E3B(_princes_\u7231\u7ED9\u7F51_aigei_com_2"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbacec93776bdbb0800000000000000
+      internalID: -4910217222465737806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rpg\u6E38\u620F\u5BA4\u5185\u5BA4\u5916\u573A\u666F\u6E38\u620F\u74F7\u7816\u7D20\u6750-_\u516C\u4E3B(_princes_\u7231\u7ED9\u7F51_aigei_com_3"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5b898b305e213f0800000000000000
+      internalID: -931430368767592964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rpg\u6E38\u620F\u5BA4\u5185\u5BA4\u5916\u573A\u666F\u6E38\u620F\u74F7\u7816\u7D20\u6750-_\u516C\u4E3B(_princes_\u7231\u7ED9\u7F51_aigei_com_4"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f910048c00acaa610800000000000000
+      internalID: 1633339919583674783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rpg\u6E38\u620F\u5BA4\u5185\u5BA4\u5916\u573A\u666F\u6E38\u620F\u74F7\u7816\u7D20\u6750-_\u516C\u4E3B(_princes_\u7231\u7ED9\u7F51_aigei_com_5"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676aacb87074afcf0800000000000000
+      internalID: -217783534238390666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rpg\u6E38\u620F\u5BA4\u5185\u5BA4\u5916\u573A\u666F\u6E38\u620F\u74F7\u7816\u7D20\u6750-_\u516C\u4E3B(_princes_\u7231\u7ED9\u7F51_aigei_com_6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadb26e144f746fb0800000000000000
+      internalID: -4655456184249958998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rpg\u6E38\u620F\u5BA4\u5185\u5BA4\u5916\u573A\u666F\u6E38\u620F\u74F7\u7816\u7D20\u6750-_\u516C\u4E3B(_princes_\u7231\u7ED9\u7F51_aigei_com_7"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ff3c01f5c3126b0800000000000000
+      internalID: -5322906905574375547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rpg\u6E38\u620F\u5BA4\u5185\u5BA4\u5916\u573A\u666F\u6E38\u620F\u74F7\u7816\u7D20\u6750-_\u516C\u4E3B(_princes_\u7231\u7ED9\u7F51_aigei_com_8"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790f2516dbd239d60800000000000000
+      internalID: 7895704863115505815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rpg\u6E38\u620F\u5BA4\u5185\u5BA4\u5916\u573A\u666F\u6E38\u620F\u74F7\u7816\u7D20\u6750-_\u516C\u4E3B(_princes_\u7231\u7ED9\u7F51_aigei_com_9"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd632a2973d9a2a30800000000000000
+      internalID: 4191335265230534367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rpg\u6E38\u620F\u5BA4\u5185\u5BA4\u5916\u573A\u666F\u6E38\u620F\u74F7\u7816\u7D20\u6750-_\u516C\u4E3B(_princes_\u7231\u7ED9\u7F51_aigei_com_10"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdedc107cc6669e0800000000000000
+      internalID: -1628494613263290896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rpg\u6E38\u620F\u5BA4\u5185\u5BA4\u5916\u573A\u666F\u6E38\u620F\u74F7\u7816\u7D20\u6750-_\u516C\u4E3B(_princes_\u7231\u7ED9\u7F51_aigei_com_11"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb54770f35f7c070800000000000000
+      internalID: 8126733703670160322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
